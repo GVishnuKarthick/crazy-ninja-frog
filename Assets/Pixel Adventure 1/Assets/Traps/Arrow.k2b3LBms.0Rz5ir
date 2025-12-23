@@ -1,0 +1,9 @@
+'use strict';
+
+var test = require('tape');
+var hasStrictMode = require('has-strict-mode')();
+
+var bound = require('../');
+var runTests = require('./tests');
+
+test(
