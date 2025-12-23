@@ -1,7 +1,0 @@
-'use strict';
-
-var inspect = require('object-inspect');
-var forEach = require('for-each');
-
-module.exports = function (flatMap, t) {
-	t.test('callback function', f

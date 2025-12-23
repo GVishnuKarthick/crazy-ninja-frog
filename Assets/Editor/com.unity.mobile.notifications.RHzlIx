@@ -1,7 +1,0 @@
-'use strict';
-
-var define = require('define-properties');
-var callBind = require('call-bind');
-
-var implementation = require('./implementation');
-var getPolyfill =
